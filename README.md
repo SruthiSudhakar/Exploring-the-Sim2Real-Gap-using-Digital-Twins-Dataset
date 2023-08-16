@@ -1,2 +1,2 @@
-# YCB-Digital-Twins-for-Sim2Real-Analysis
-Dataset for YCB Digital Twins for Sim2Real Analysis (ICCV '23) coming soon.
+# Exploring the Sim2Real Gap using Digital Twins Dataset
+Dataset for Exploring the Sim2Real Gap using Digital Twins (ICCV '23) coming soon.
